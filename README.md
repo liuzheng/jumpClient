@@ -18,7 +18,7 @@ Remove the /Applications/jump.app/
 # Test
 open this link: jump://eyJQYXNzd29yZCI6IndlYWtQYXNzd29yZCIsIkZ1bGxBZGRyZXNzIjoiMTI3LjAuMC4xOjMzODkiLCJVc2VybmFtZSI6IkFkbWluaXN0cmF0b3IifQ==
 
-The date is `{"Password":"weakPassword","FullAddress":"127.0.0.1:3389","Username":"Administrator"}`
+The data is `{"Password":"weakPassword","FullAddress":"127.0.0.1:3389","Username":"Administrator"}`
 
 **notice** Darwin does not support open with password, I will find solution later.
 
