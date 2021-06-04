@@ -20,20 +20,17 @@ Run the uninstall.bat in the zip
 Remove the /Applications/jump.app/
 
 # Test
-open this link: jump://eyJQYXNzd29yZCI6IndlYWtQYXNzd29yZCIsIkZ1bGxBZGRyZXNzIjoiMTI3LjAuMC4xOjMzODkiLCJVc2VybmFtZSI6IkFkbWluaXN0cmF0b3IifQ==
-
-The data is `{"Password":"weakPassword","FullAddress":"127.0.0.1:3389","Username":"Administrator"}`
-
 **notice** Darwin does not support open with password, I will find solution later.
-
 The system will auto run the client
 
-## link proto
 There support 3 types, json, proto buf, encrypted proto buf
 
 The value is *FullAddress: 127.0.0.1:3389*, *Username: Administrator*, *Password: weakPassword*
 
 Actually, I already support full version RDC about rdp file config.
+
+### json
+example link: jump://eyJQYXNzd29yZCI6IndlYWtQYXNzd29yZCIsIkZ1bGxBZGRyZXNzIjoiMTI3LjAuMC4xOjMzODkiLCJVc2VybmFtZSI6IkFkbWluaXN0cmF0b3IifQ==
 
 ### proto buf
 proto buf example: jump://Egx3ZWFrUGFzc3dvcmRaDjEyNy4wLjAuMTozMzg5ag1BZG1pbmlzdHJhdG9y
