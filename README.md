@@ -1,9 +1,9 @@
 # jumpClient
 A jump client for open rdp/vnc/ssh/etc... clients
 
-[x] rdp clients: mstsc.exe, Microsoft Remote Desktop.app, Microsoft Remote Desktop Beta.app/
-[ ] vnc clients:
-[ ] ssh clients:
+  - [x] rdp clients: mstsc.exe, Microsoft Remote Desktop.app, Microsoft Remote Desktop Beta.app
+  - [ ] vnc clients:
+  - [ ] ssh clients:
 
 # Install
 ## Windows
