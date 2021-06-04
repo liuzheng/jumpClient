@@ -33,23 +33,12 @@ There support 3 types, json, proto buf, encrypted proto buf
 
 The value is *FullAddress: 127.0.0.1:3389*, *Username: Administrator*, *Password: weakPassword*
 
+Actually, I already support full version RDC about rdp file config.
+
 ### proto buf
 proto buf example: jump://Egx3ZWFrUGFzc3dvcmRaDjEyNy4wLjAuMTozMzg5ag1BZG1pbmlzdHJhdG9y
 
 Darwin: because darwin is not support auto password now, I will find some solution later. Also the drive share.
-```
-full address:s:127.0.0.1:3389
-username:s:Administrator
-```
-
-Windows
-```
-full address:s:127.0.0.1:3389
-username:s:Administrator
-password 51:b:xxxxxxx
-```
-
-Actually, I already support full version about rdp file config.
 
 ### encrypted proto buf
 jump://On5c+iB1ztPECFBQ2jEi7scpoua15rJjkMcgiq+pdTcglPvmCMaTMZZTZGIRABSHWSCiFulePsO72aPrs2Yeyew8U/f90H5M3LH8I6rY/JMYkDiC2yZWefOze8EFzxfcJ0hQuHDY0JqLljgVQl/sClKLXUdXkWXPNru5huQmy6hdkQ0kcGrD7VGFh/ZvYRwQp9W6BK2tYn6WPKGE5hPtp6aJjDPhxJNadwOOSB0ScUIitNpqQWc8kTWFb8Z41tqZE3AYQhfujC5Qf/5PKh2ktY1G301KTaZgk3RAcuQgvHYJfKPhhWNWsxTHTXhAI9IRXx21+iYsMFLA2w8C8akJqQ== 
