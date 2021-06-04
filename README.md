@@ -1,6 +1,10 @@
 # jumpClient
 A jump client for open rdp/vnc/ssh/etc... clients
 
+[x] rdp clients: mstsc.exe, Microsoft Remote Desktop.app, Microsoft Remote Desktop Beta.app/
+[ ] vnc clients:
+[ ] ssh clients:
+
 # Install
 ## Windows
 Download the jump-win-Version.zip file and unzip, dobule click the `install.bat`, and click **confirm**
