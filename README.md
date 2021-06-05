@@ -44,5 +44,6 @@ no one but with the private key can decrypt the data.
 
 Darwin/Windows supported, linux please wait a moment.
 
-
+# LICENSE
+The license is dual-licensed, the non-busness usage is under GPLv2.0, the busness usage is all rights reserved.
 
